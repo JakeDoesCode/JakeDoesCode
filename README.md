@@ -1,8 +1,9 @@
-# Hi, I'm Jake - aka [JakeDoesCode][youtube] 👋 
+# Hi, I'm Jake - aka [JakeDoesCode][youtube] 👋
 
 <!-- additional information will be added here -->
 
 ## I'm a Husband, Father, Developer, and Veteran
+
 - 📖 I'm currently completing The Odin Project Curriculum
 - 👯 I’m looking to learn, network with other developers, and get hired as a web developer.
 - 🥅 2022 Goals: I would like to be complete with The Odin Project, have my personal website up, and actively applying for positions by 2023.
@@ -19,7 +20,6 @@
 &nbsp;&nbsp;
 [![twitter](./img/twitter-light.svg)](https://twitter.com/JakeDoesCode#gh-light-mode-only)
 [![twitter](./img/twitter-dark.svg)](https://twitter.com/JakeDoesCode#gh-dark-mode-only)
-
 
 ### Languages and Tools:
 
@@ -39,7 +39,6 @@
 <!-- YOUTUBE:START -->
 
 <!-- YOUTUBE:END -->
-
 
 ---
 
@@ -65,7 +64,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="JakeDoesCode's GitHub Stats" src="[![JakeDoesCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=JakeDoesCode)](https://github.com/JakeDoesCode/github-readme-stats)" />
+  <img align="left" alt="JakeDoesCode's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JakeDoesCode&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
 
