@@ -45,7 +45,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [CSS Positioning lightbulb](https://dev.to/jakedoescode/css-positioning-lightbulb-4onc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ➡️ [more blog posts...]() -->
