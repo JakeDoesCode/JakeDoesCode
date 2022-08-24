@@ -13,6 +13,9 @@
 ### Connect with me:
 
 &nbsp;&nbsp;
+[![linkedin](./img/twitter-light.svg)](https://linkedin.com/in/JakeDoesCode#gh-light-mode-only)
+[![linkedin](./img/twitter-dark.svg)](https://linkedin.com/in/JakeDoesCode#gh-dark-mode-only)
+&nbsp;&nbsp;
 [![youtube](./img/youtube-light.svg)](https://youtube.com/JakeDoesCode#gh-light-mode-only)
 [![youtube](./img/youtube-dark.svg)](https://youtube.com/JakeDoesCode#gh-dark-mode-only)
 &nbsp;&nbsp;
