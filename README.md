@@ -5,18 +5,16 @@
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
 ## I'm a Husband, Father, Developer, and Veteran
-
 - 📖 I'm currently completing The Odin Project Curriculum
 - 👯 I’m looking to learn, network with other developers, and get hired as a web developer.
 - 🥅 2022 Goals: I would like to be complete with The Odin Project, have my personal website up, and actively applying for positions by 2023.
 - 💣 Fun fact: I enjoy practicing Brazilian Jiu-Jitsu, and I am an Explosive Ordnance Disposal Officer (Bomb guy) in the National Guard.
 
-
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/JakeDoesCode#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/JakeDoesCode#gh-dark-mode-only)
+[![youtube](./img/youtube-light.svg)](https://youtube.com/JakeDoesCode#gh-light-mode-only)
+[![youtube](./img/youtube-dark.svg)](https://youtube.com/JakeDoesCode#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![twitter](./img/twitter-light.svg)](https://twitter.com/JakeDoesCode#gh-light-mode-only)
 [![twitter](./img/twitter-dark.svg)](https://twitter.com/JakeDoesCode#gh-dark-mode-only)
@@ -32,7 +30,6 @@
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
-
 
 ---
 
