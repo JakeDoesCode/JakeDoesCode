@@ -53,13 +53,7 @@
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-
-</details>
-
+ <!-- will add recent GH activity -->
 <details>
   <summary>:zap: GitHub Stats</summary>
 
