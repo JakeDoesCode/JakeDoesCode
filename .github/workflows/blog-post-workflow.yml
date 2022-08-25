@@ -14,3 +14,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: 'https://dev.to/feed/jakedoescode'
+          feed_list: 'https://community.codenewbie.org/feed/jakedoescode'
+
