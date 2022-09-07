@@ -1,13 +1,13 @@
-# Hi, I'm Jake - aka [JakeDoesCode]👋
+# Hi, I'm Jake - aka [JakeDoesCode][youtube] 👋
 
 <!-- additional information will be added here -->
 
 ## I'm a Husband, Father, Developer, and Veteran
 
 - 📖 I'm currently completing The Odin Project Curriculum
-- 👯 I’m looking to learn, network with other developers, start my career as a web developer.
+- 👯 I’m looking to learn, network with other developers, and start my career as a web developer.
 - 🥅 2022 Goals: I would like to be complete with The Odin Project, have my personal website up, and actively applying for positions by 2023.
-- 💣 Fun fact: I enjoy practicing Brazilian Jiu-Jitsu, and I am an Explosive Ordnance Disposal Officer in the National Guard.
+- 💣 Fun fact: I enjoy practicing Brazilian Jiu-Jitsu, and I am an Explosive Ordnance Disposal Officer in the Army National Guard.
 
 ### Connect with me:
 
