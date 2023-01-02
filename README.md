@@ -6,7 +6,7 @@
 
 - 📖 I'm currently completing The Odin Project Curriculum
 - 👯 I’m looking to learn, network with other developers, and start my career as a web developer.
-- 🥅 2022 Goals: I would like to be complete with The Odin Project, have my personal website up, and actively applying for positions by 2023.
+- 🥅 2023 Goals: I would like to be complete with The Odin Project, have my personal website up, and actively applying for positions by 2024.
 - 💣 Fun fact: I enjoy practicing Brazilian Jiu-Jitsu, and I am an Explosive Ordnance Disposal Officer in the Army National Guard.
 
 ### Connect with me:
